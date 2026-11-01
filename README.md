@@ -8,6 +8,8 @@ Lista plików źródłowych C++:
 | 27.10.2026 00:55 | [Zadania02/Zadania02.cpp](./Zadania02/Zadania02.cpp) |
 | 27.10.2026 00:55 | [Zadania02/arrays_2610.cpp](./Zadania02/arrays_2610.cpp) |
 | 27.10.2026 00:55 | [Zadania03/Zadania03.cpp](./Zadania03/Zadania03.cpp) |
+| 02.11.2026 00:09 | [Zadania04/Zadania04.cpp](./Zadania04/Zadania04.cpp) |
+| 02.11.2026 00:09 | [Zadania04/Zadania04_01.cpp](./Zadania04/Zadania04_01.cpp) |
 
 ---
-Ostatnia aktualizacja: 26.10.2026 23:55 | **Gabriel Łoboda**
+Ostatnia aktualizacja: 01.11.2026 23:10 | **Gabriel Łoboda**
